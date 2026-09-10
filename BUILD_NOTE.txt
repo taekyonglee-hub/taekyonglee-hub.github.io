@@ -1,0 +1,3 @@
+BASE: V5.11
+ONLY CHANGE: removed the small green 'Contact me by email' button beside the profile photo.
+UNCHANGED: large green Contact tile, full V5.11 homepage, Research/Profile/Experience/CV pages and all project pages.

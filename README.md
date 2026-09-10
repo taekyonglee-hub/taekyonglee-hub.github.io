@@ -64,7 +64,3 @@ Project-card hero labels standardized: Bachelor's Thesis, Flow Cytometry, Protei
 - Removed the large empty space inside the hero.
 - Added Research / Profile / Experience / CV / Contact shortcut tiles directly beneath the hero, before the About section.
 - Preserved the latest clickable research pages and unified text-cover project style.
-
-
-## V5.11.1 update
-Removed the duplicate green “Contact me by email” button from the hero/profile block; the main Contact tile remains active.
